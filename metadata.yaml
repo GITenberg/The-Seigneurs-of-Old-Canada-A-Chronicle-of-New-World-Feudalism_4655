@@ -1,0 +1,42 @@
+_repo: The-Seigneurs-of-Old-Canada-A-Chronicle-of-New-World-Feudalism_4655
+contributor:
+  creator:
+    editors:
+    - agent_name: Wrong, George McKinnon
+      alias: Wrong, George M. (George McKinnon)
+      birthdate: 1860
+      deathdate: 1948
+      gutenberg_agent_id: '1002'
+      url: http://www.gutenberg.org/2009/agents/1002
+      wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+    - agent_name: Langton, H. H. (Hugh Hornby)
+      alias: Langton, Hugh Hornby
+      birthdate: 1862
+      deathdate: 1953
+      gutenberg_agent_id: '4517'
+      url: http://www.gutenberg.org/2009/agents/4517
+creator:
+  author:
+    agent_name: Munro, William Bennett
+    birthdate: 1875
+    deathdate: 1957
+    gutenberg_agent_id: '1530'
+    url: http://www.gutenberg.org/2009/agents/1530
+    wikipedia: http://en.wikipedia.org/wiki/William_B._Munro
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4655'
+language: en
+publication_note: 'Toronto :  [s.n.],  1915'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Chronicles of Canada series: Volume 05'
+subjects:
+- !lcsh 'Land tenure -- Canada -- History'
+- !lcsh 'Feudalism -- History'
+- !lcc 'F1001'
+title: 'The Seigneurs of Old Canada : A Chronicle of New World Feudalism'
+url: http://www.gutenberg.org/ebooks/4655
