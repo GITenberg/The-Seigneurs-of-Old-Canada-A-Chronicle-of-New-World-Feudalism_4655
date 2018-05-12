@@ -1,5 +1,5 @@
 _repo: The-Seigneurs-of-Old-Canada-A-Chronicle-of-New-World-Feudalism_4655
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editors:
@@ -16,6 +16,9 @@ contributor:
       deathdate: 1953
       gutenberg_agent_id: '4517'
       url: http://www.gutenberg.org/2009/agents/4517
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Munro, William Bennett
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1530
     wikipedia: http://en.wikipedia.org/wiki/William_B._Munro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4655#The-Seigneurs-of-Old-Canada-A-Chronicle-of-New-World-Feudalism
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
